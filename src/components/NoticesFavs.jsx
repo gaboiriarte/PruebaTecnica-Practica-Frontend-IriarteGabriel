@@ -1,8 +1,7 @@
 import React, { useEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { startLoadingFavsNews } from '../actions/notice';
-import { data } from '../data/data';
-import { Notice } from './Notice';
+
 
 import { NoticeFav } from './NoticeFav';
 

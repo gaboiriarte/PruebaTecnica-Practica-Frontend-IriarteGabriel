@@ -1,6 +1,6 @@
 # Prueba Técnica Práctica Gabriel Iriarte
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este proyecto fue creado con [Create React App](https://github.com/facebook/create-react-app).
 
 ## Instalar dependencias
 
