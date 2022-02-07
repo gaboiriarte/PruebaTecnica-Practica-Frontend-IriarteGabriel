@@ -33,6 +33,7 @@ export const Notices = () => {
     const handleChange = (e,page) =>{
         e.preventDefault();     
 
+
         dispatch(startLoadingNews(lastTech,page));
         dispatch(selectPage(page));
     }
